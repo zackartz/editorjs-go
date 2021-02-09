@@ -1,4 +1,4 @@
-package main
+package editorjs
 
 type Options struct {
 	Image ImageOptions

@@ -14,7 +14,3 @@ type ImageClasses struct {
 	Stretched      string
 	WithBackground string
 }
-
-func main() {
-
-}
